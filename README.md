@@ -8,3 +8,5 @@ Images
 ![My Image](admincars.png) <br>
 ![My Image](reservations.png) <br>
 ![My Image](addcar.png) <br>
+![My Image](screenshot_2.png) <br>
+![My Image](screenshot_3.png) <br>
